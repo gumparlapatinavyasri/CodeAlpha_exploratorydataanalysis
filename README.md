@@ -78,5 +78,8 @@ The dataset includes hundreds of smartphones and their attributes, such as:
 
 ---
 
+## Conclusion
+
+This project delivers insights into smartphone trends by exploring price, features, and customer preferences. Key findings, like the impact of fast charging on ratings, highlight how data can support real-world decisions. It’s a solid foundation for deeper analysis and business applications.
 
 
